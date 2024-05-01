@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Camiseta de algodón",
+    "description": "Camiseta de algodón suave y cómoda en varios colores.",
+    "price": 15.99,
+    "thumbnail": "https://ejemplo.com/camiseta.jpg",
+    "code": "CT001",
+    "stock": 50,
+    "id": 1
+  },
+  {
+    "title": "Zapatillas deportivas",
+    "description": "Zapatillas deportivas ligeras y transpirables para correr o hacer ejercicio.",
+    "price": 49.99,
+    "thumbnail": "https://ejemplo.com/zapatillas.jpg",
+    "code": "ZP002",
+    "stock": 30,
+    "id": 2
+  },
+  {
+    "title": "Bolso de cuero",
+    "description": "Bolso de cuero genuino con varios compartimentos y correa ajustable.",
+    "price": 79.99,
+    "thumbnail": "https://ejemplo.com/bolso.jpg",
+    "code": "BL003",
+    "stock": 20,
+    "id": 3
+  },
+  {
+    "title": "Pantalon de Jean",
+    "description": "Pantalon de jean color azul, sin roturas.",
+    "price": 30.99,
+    "thumbnail": "https://ejemplo.com/jean.jpg",
+    "code": "XC004",
+    "stock": 18,
+    "id": 4
+  }
+]
